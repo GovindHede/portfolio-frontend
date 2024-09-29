@@ -24,3 +24,8 @@ Each section (About Me, Skills, Projects, Contact) is animated on scroll using A
 Gradient Design Elements:
 
 The portfolio uses modern gradient backgrounds and buttons, blending colors like purples and blues for a sleek, vibrant look.
+![home](https://github.com/user-attachments/assets/d1edce0c-e2ec-47a7-91ec-72271804292d)
+![aboutme](https://github.com/user-attachments/assets/94d14cc0-7950-43c0-841a-5d904ecd5f73)
+![skill](https://github.com/user-attachments/assets/6264a043-8f8f-431e-bebd-38bda955ef4b)
+![project](https://github.com/user-attachments/assets/94493c2d-f7c2-473e-8a6a-b97312dec796)
+![connact](https://github.com/user-attachments/assets/45d9baaf-dc85-463a-9b7f-cd8dbfd24fef)
