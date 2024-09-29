@@ -77,7 +77,7 @@ const Projects = ref([
         title: 'Face Recognition Attendance System',
         description: "This system, developed using Flask, leverages machine learning models to automate attendance tracking through real-time face recognition. The project integrates OpenCV’s 'haarcascade_frontalface_default.xml' for face detection and a custom-trained 'Face_recognition_model.pkl' for accurate recognition. The system logs attendance as individuals are recognized, providing a more efficient and reliable way to track attendance in various environments, such as educational institutions or workplaces.",
         technologies: ['Flask', 'Python', 'OpenCV'],
-        gitURL: 'https://github.com/GovindHede/Face-Attendence-System',
+        gitURL: 'https://github.com/GovindHede/face_attendence-system',
         webURL: ''
     },
     {
