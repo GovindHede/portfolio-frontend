@@ -23,7 +23,7 @@ Section Animations (AOS):
 Each section (About Me, Skills, Projects, Contact) is animated on scroll using AOS to create engaging transitions as users move through the page.
 Gradient Design Elements:
 
-The portfolio uses modern gradient backgrounds and buttons, blending colors like purples and blues for a sleek, vibrant look.
+The portfolio uses modern gradient backgrounds and buttons, blending colors like purples and blues for a sleek, vibrant look this is very beautiful UI.
 ![home](https://github.com/user-attachments/assets/d1edce0c-e2ec-47a7-91ec-72271804292d)
 ![aboutme](https://github.com/user-attachments/assets/94d14cc0-7950-43c0-841a-5d904ecd5f73)
 ![skill](https://github.com/user-attachments/assets/6264a043-8f8f-431e-bebd-38bda955ef4b)
